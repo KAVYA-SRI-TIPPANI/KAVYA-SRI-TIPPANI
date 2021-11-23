@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 
 <text font ="italic">
   # kavya
+  
+ 
   table in readme file
 
-|s.no| | name| roll-no|branch|
+| s.no| | name| roll-no| branch|
 |----|-----|-------|------|
 |1|surya|521|CSE|
 |2|swami|507|ECE|
-|3|kavya|500|EEE|
+
